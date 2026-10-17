@@ -18,7 +18,7 @@ A **Série DataMart** é um conjunto de 5 projetos incrementais que simulam o am
 
 | # | Projeto | Foco Principal | Tecnologias | Link |
 | :---: | :--- | :--- | :--- | :---: |
-| **1** | **Pipeline Serverless de Vendas** | Fundamentos de Cloud e ETL | Python, Lambda, S3, Athena | [Repositório](https://github.com/bealimav/projeto-datamart-analytics) |
+| **1** | **Pipeline Serverless de Vendas** | Fundamentos de Cloud e ETL | Python, Lambda, S3, Athena | [Repositório](https://github.com/bealimav/projeto-datamart) |
 | **2** | **Pipeline com Terraform** | Infrastructure as Code (IaC) | Terraform, Python, Lambda, S3 | [Repositório](https://github.com/bealimav/projeto-datamart-terraform) |
 | **3** | **Qualidade e Idempotência** | Testes e Prevenção de Duplicatas | Terraform, DynamoDB, Pytest + Mock | [Repositório](https://github.com/bealimav/projeto-datamart-qualidade) |
 | **4** | **Observabilidade e FinOps** | Monitoramento e Controle de Custos | CloudWatch, SNS, Budgets, Terraform | [Repositório](https://github.com/bealimav/projeto-datamart-observabilidade) |
